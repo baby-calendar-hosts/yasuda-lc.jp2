@@ -211,6 +211,7 @@
     "wpackagist-plugin/my-calendar": "*",
     "wpackagist-plugin/recaptcha-for-mw-wp-form": "*",
     "wpackagist-plugin/seo-simple-pack": "*",
+    "wpackagist-plugin/sticky-posts-switch": "*",
     "wpackagist-plugin/tablepress": "*",
     "wpackagist-plugin/wordpress-importer": "*",
     "wpackagist-plugin/wp-dashboard-notes": "*",
